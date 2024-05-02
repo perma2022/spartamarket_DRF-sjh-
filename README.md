@@ -91,6 +91,5 @@ Method: DELETE
 
 
 ✅ERD
-(ERD 작성 잘못해서 죄송합니다ㅠ..ㅠ)
-<img width="2624" alt="erd" src="https://github.com/perma2022/spartamarket_DRF-sjh-/assets/121236442/25213579-c562-41c8-a820-93643f374f3c">
-
+(ERD 작성 잘못해서 죄송합니다ㅠ..ㅠ 튜터님께피드백받고 다시 작성할게요 ! )
+![ERD](https://github.com/perma2022/spartamarket_DRF-sjh-/assets/121236442/a9882e9f-735c-492b-896b-55a91a1050cc)
