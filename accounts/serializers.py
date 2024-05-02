@@ -14,3 +14,4 @@ class UserSerializer(serializers.ModelSerializer):
         #User.objects.create_user orm 사용
         #(**validated_data) 장고 serializer 내장함수 유효성검사 
         return user
+    
